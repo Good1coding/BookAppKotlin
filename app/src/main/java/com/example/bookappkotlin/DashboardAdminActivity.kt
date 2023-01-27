@@ -29,6 +29,8 @@ class DashboardAdminActivity : AppCompatActivity() {
             checkUser()
         }
 
+        //handle click, start add category page
+
     }
 
     private fun checkUser() {
